@@ -1,5 +1,10 @@
-<<<<<<< Updated upstream
-=======
+
+.titleBG#image {
+  z-index: 0;
+  height: 1vh;
+  width: 1vw;
+}
+
 html {
   overflow-x: hidden;
 }
@@ -16,4 +21,4 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
 }
->>>>>>> Stashed changes
+

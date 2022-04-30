@@ -1,3 +1,4 @@
+
 @keyframes slideUp {
   0% {
     opacity: 0;
@@ -28,6 +29,12 @@ html {
   overflow-x: hidden;
   scroll-behavior: smooth;
 }
+
+<
+#image {
+  margin: 20px;
+  position: relative;
+  bottom: 5%;
 
 #title {
   font-family: "Google Sans";
