@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Google Sans";
+  src: url("../Resources/Google Sans")
+}
+
 @keyframes slideUp {
   0% {
     opacity: 0;
@@ -36,7 +41,7 @@ html {
 }
 
 #title {
-  font-family: "Google Sans";
+  font-family: "Google Sans", sans-serif;
   font-size: 50px;
   color: black;
 
@@ -75,12 +80,12 @@ html {
 #scrollButton {
   position: relative;
   bottom: 30vh;
-  left: 45vw;
-  opacity: 0;
-  z-index: 1000;
+  left: 45%;
+  opacity: 1;
+  z-index: 10;
 
-  height: 55px;
-  width: 75px;
+  height: 50px;
+  width: 100px;
 }
 
 .personalIntroduction {
