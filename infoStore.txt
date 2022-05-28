@@ -1,5 +1,4 @@
 TODO Add content for Profile and Research
-TODO Place to-top button for ALL PAGES
 TODO Add title and navbar box for keySkills and finalReflection
 TODO (OP) Navbar background
 TODO (OP) Create scroll-to-div button - find alternative for scrollIntoView()
