@@ -1,0 +1,57 @@
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  font-family: "Google Sans", sans-serif;
+}
+
+#title {
+  font-family: "Google Sans", sans-serif;
+  font-size: 50px;
+  color: black;
+
+  z-index: 1;
+
+  margin: auto;
+  position: relative;
+  text-align: center;
+  top: 45vh;
+}
+
+#titleImage {
+  position: relative;
+  bottom: 13vh;
+  right: 1vw;
+  z-index: -1;
+
+  height: 105vh;
+  width: 105vw;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar {
+  position: relative;
+  right: 1%;
+  font-family: "Google Sans", sans-serif;
+  text-align: center;
+  z-index: 5;
+  line-height: 6vh;
+  width: 103vw;
+  height: 6vh;
+  background: black;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding-right: 5vw;
+}
+
+.navbar a:visited {
+  color: white;
+  text-decoration: none;
+  padding-right: inherit;
+  opacity: 1;
+}
+
