@@ -134,6 +134,7 @@ html {
 
 .personalIntroduction {
   position: relative;
+  top: 5vh;
   bottom: 20vh;
 
   height: 100vh;

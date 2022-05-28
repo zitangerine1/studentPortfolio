@@ -1,3 +1,10 @@
+TODO Add content for Profile and Research
+TODO Place to-top button for ALL PAGES
+TODO Add title and navbar box for keySkills and finalReflection
+TODO (OP) Navbar background
+TODO (OP) Create scroll-to-div button - find alternative for scrollIntoView()
+TODO (Consider) Optimise loading by linking to universal JS (loading.js)
+
 Your Student Profile
 - Create page.
 - Include education
@@ -27,3 +34,24 @@ Key Skills Record
 
 Final Placement Reflection
 - Create page, leave blank
+
+----------------------------------------------------
+
+All pages setup
+
+Complete Content:
+- Targets
+- Placement Diary
+- Key Skills
+- Final Reflection
+
+----------------------------------------------------
+For each new HTML:
+- Add favicon
+<link rel="icon" type="image/x-icon" href="../Resources/transparent-sji-logo.png">
+
+- Import jQuery and add loading
+- Add navbar and hide x-overflow
+- Link to correct CSS and JS
+- Place title and background
+- Add back to top button
