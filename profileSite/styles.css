@@ -100,7 +100,7 @@ html {
   bottom: 13vh;
   right: 1vw;
   z-index: -1;
-  height: 105vh;
+  height: 120vh;
   width: 105vw;
   background-position: center;
   background-repeat: no-repeat;
@@ -242,4 +242,29 @@ html {
 
   -webkit-transition: all 0.3s 1s ease-out;
   transition: all 0.3s 1s ease-out;
+}
+
+#section1 {
+  position: relative;
+  width: 102vw;
+  height: 102vh;
+  right: 2vw;
+  bottom: 40vh;
+}
+
+#section2 {
+  position: relative;
+  width: 102vw;
+  height: 102vh;
+  right: 2vw;
+  bottom: 40vh;
+}
+
+#section3 {
+  position: relative;
+  width: 102vw;
+  height: 102vh;
+  right: 2vw;
+  bottom: 40vh;
+  overflow: hidden;
 }
