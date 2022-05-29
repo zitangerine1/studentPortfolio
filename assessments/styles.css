@@ -45,13 +45,15 @@ html {
   font-family: "Google Sans", sans-serif;
 }
 
+.title {
+  height: 100vh;
+}
+
 #title {
   font-family: "Google Sans", sans-serif;
   font-size: 50px;
   color: black;
-
   z-index: 1;
-
   margin: auto;
   position: relative;
   text-align: center;
@@ -196,4 +198,31 @@ html {
 
 #toTopButton:hover {
   background-color: #555;
+}
+
+#mapImage1 {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+#mapImage2 {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+#mapImage3 {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.line {
+  z-index: 10;
+  position: relative;
+  background: black;
+  width: 2000vw;
+  right: 1000px;
+  height: 5px;
 }

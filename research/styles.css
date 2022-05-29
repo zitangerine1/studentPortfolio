@@ -135,19 +135,15 @@ html {
   font-family: "Google Sans", sans-serif;
 }
 
-#image {
-  margin: 20px;
-  position: relative;
-  bottom: 5%;
+.title {
+  height: 100vh;
 }
 
 #title {
   font-family: "Google Sans", sans-serif;
   font-size: 50px;
   color: black;
-
   z-index: 1;
-
   margin: auto;
   position: relative;
   text-align: center;
@@ -203,4 +199,33 @@ html {
 
 #toTopButton:hover {
   background-color: #555;
+}
+
+a:visited {
+  color: #0000EE;
+}
+
+#section1 {
+  position: relative;
+  width: 102vw;
+  height: 102vh;
+  right: 2vw;
+}
+
+#section2 {
+  position: relative;
+  width: 102vw;
+  height: 102vh;
+  right: 2vw;
+}
+
+#section3 {
+  position: relative;
+  width: 102vw;
+  height: 102vh;
+  right: 2vw;
+}
+
+html {
+  background: #27282C;
 }

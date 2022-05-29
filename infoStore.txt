@@ -1,4 +1,5 @@
 TODO Add content for Profile and Research
+TODO Add title box for keySkills
 TODO (OP) Navbar background
 TODO (OP) Create scroll-to-div button - find alternative for scrollIntoView()
 TODO (Consider) Optimise loading by linking to universal JS (loading.js)
